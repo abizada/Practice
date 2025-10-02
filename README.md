@@ -1,6 +1,6 @@
 # Practice
 
-This repository aggregates my public GitHub projects under `projects/`. Each folder mirrors the original repository so everything is in one place.
+This repository aggregates my public GitHub practices under `projects/`. Each folder mirrors the original repository so everything is in one place.
 
 Included projects:
 
